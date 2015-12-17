@@ -147,7 +147,7 @@ var Froogaloop = (function(){
 
         // Handles messages from the vimeo player only
         if (!(/^https?:\/\/player.vimeo.com/).test(event.origin)) {
-            return false;
+            // return false;
         }
 
         if (playerOrigin === '*') {
