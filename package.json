@@ -3,7 +3,7 @@
   "name": "vimeo-froogaloop2",
   "version": "0.1.0",
   "description": "Vimeo froogaloop2 library for npm. Useful for browserify/webpack builds. More details about the video API @vimeo's repo: https://github.com/vimeo/player-api/blob/master/readme.mdown)",
-  "main": "javascript/froogaloop.min.js",
+  "main": "javascript/froogaloop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
